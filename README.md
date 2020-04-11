@@ -12,3 +12,4 @@ The Kitchen Timer consist total of Eight Components. All components are named as
 7.	Breadboard
 8.	Jumper Wires
 
+First I initiated making of this device by setting up Push buttons. Following them, I connected them along with the resistors. Then I attached a speaker. Thereafter, LCD was connected using jumper wires. Lastly, I connected potentiometer.
